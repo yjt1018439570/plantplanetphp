@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<document>
+
+<data><productId>001</productId><productName>Seed Pet</productName><vendor>Pkm Inc</vendor><description>Imported.</description><type>Seeds</type></data><data><productId>001</productId><productName>Seed Pet</productName><vendor>Mars Inc</vendor><description>N/A</description><type>Seed</type></data><data><productId>003</productId><productName>Fertilizer for seeds</productName><vendor>Mars Inc</vendor><description>Fertilizer from Mars</description><type>Fertilizer</type></data><data><productId>004</productId><productName>Fertilizer for seed pet</productName><vendor>Petfoodpkm Inc</vendor><description>Efficient</description><type>Fertilizer</type></data></document>

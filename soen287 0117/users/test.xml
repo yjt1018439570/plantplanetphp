@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<users><password>test</password><email>test@test.com</email><firstname>testFirstname</firstname><lastname>testLastname</lastname><phonenumber>1234567890</phonenumber><dob>2000-01-01</dob><country>testCanada</country><province>testProvince</province><city>testCity</city><address>testAddress</address><title>mr</title></users>

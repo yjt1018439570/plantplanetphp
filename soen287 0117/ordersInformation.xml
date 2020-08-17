@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<document>
+ 
+<order><orderId>001</orderId><customerId>101</customerId><product>Seed Pet</product><size>small</size><quantity>20</quantity></order><order><orderId>002</orderId><customerId>102</customerId><product>Fertilizer for seeds</product><size>Medium</size><quantity>10</quantity></order><order><orderId>003</orderId><customerId>103</customerId><product>Seed Pet</product><size>Large</size><quantity>1</quantity></order><order><orderId>004</orderId><customerId>104</customerId><product>Fertilizer for seed pet</product><size>Small</size><quantity>22</quantity></order></document>

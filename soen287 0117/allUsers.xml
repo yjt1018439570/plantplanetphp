@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<users>
+	<user>
+		<username>gcody789</username>
+		<password>123</password>
+		<email>ginacody49@gmail.com</email>
+		<title>miss</title>
+		<firstname>Gina</firstname>
+		<lastname>Cody</lastname>
+		<phonenumber>5555555555</phonenumber>
+		<dob>1998-12-25</dob>
+		<country>Canada</country>
+		<province>Quebec</province>
+		<city>Montreal</city>
+		<address>3000 Rue Levy</address>
+	</user>
+<user><username>test</username><password>test</password><email>test@test.com</email><title>mr</title><firstname>testFirstname</firstname><lastname>testLastname</lastname><phonenumber>1234567890</phonenumber><dob>2000-01-01</dob><country>testCanada</country><province>testProvince</province><city>testCity</city><address>testAddress</address></user><user><username>user1</username><password>123</password><email>user1@test.com</email><title>mr</title><firstname>user1Firstname</firstname><lastname>user1Lastname</lastname><phonenumber>0987654321</phonenumber><dob>2000-02-02</dob><country>Canada</country><province>Ontario</province><city>Toronto</city><address>220 Yonge St</address></user></users>

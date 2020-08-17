@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<users>
+	<user>
+		<username>gcody789</username>
+		<password>helloworld</password>
+		<email>ginacody49@gmail.com</email>
+		<title>miss</title>
+		<firstname>Gina</firstname>
+		<lastname>Cody</lastname>
+		<phonenumber>5555555555</phonenumber>
+		<dob>1998-12-25</dob>
+		<country>Canada</country>
+		<province>Quebec</province>
+		<city>Montreal</city>
+		<address>3000 Rue Levy</address>
+	</user>
+<email>ginacody49@gmail.com</email><password>123</password><title>miss</title><firstname>Gina</firstname><lastname>Cody</lastname><phonenumber>5555555555</phonenumber><dob>1998-12-25</dob><province>Quebec</province><city>Montreal</city><address>3000 Rue Levy</address></users>
